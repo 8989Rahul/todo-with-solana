@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+
+/* Completed component css */
+
+.__todo_row:hover > .__todo_delete {
+  color: red;
+}
